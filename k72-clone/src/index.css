@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: font1;
+  src: url(./fonts/Lausanne-300.woff2);
+}
+
+@font-face {
+  font-family: font1;
+  src: url(./fonts/Lausanne-500.woff2);
+}
+
+body {
+  /* font-family: 'Inter', sans-serif; */
+  background-color: #111;
+  color: white;
+  /* margin: 0;
+  padding: 0; */
+}
