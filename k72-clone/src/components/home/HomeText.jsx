@@ -4,7 +4,7 @@ const HomeText = () => {
   return (
     <div className="font-[font1] bold">
       <p className="text-white text-[12px] font-medium tracking-normal">
-        <p>K72 is an agency that builds </p>brands from every angle. Today,
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K72 is an agency that builds brands from every angle. Today,
         tomorrow and years from now. We think the best sparks fly when
         comfort zones get left behind and friction infuses our strategies,
         brands and communications with real feeling. We’re transparent,
