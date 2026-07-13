@@ -1,12 +1,16 @@
 import React from 'react'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 import Agence from './pages/Agence'
 import Projects from './pages/Projects'
 
+
 const App = () => {
+
+ 
+
   return (
-    <div className="flex items-center justify-center ">
+    <div className="text-white ">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/agence" element={<Agence />} />
