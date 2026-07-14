@@ -9,11 +9,3 @@
   font-family: font2;
   src: url(./fonts/Lausanne-500.woff2);
 }
-
-body {
-  /* font-family: 'Inter', sans-serif; */
-  background-color: #111;
-  color: white;
-  /* margin: 0;
-  padding: 0; */
-}
