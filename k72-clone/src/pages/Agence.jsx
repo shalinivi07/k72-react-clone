@@ -60,7 +60,7 @@ const Agence = () => {
 
 
   return (
-    <div>
+    <div className='bg-black'>
       <div className='section1 relative py-1'>
         <div ref={imageDivRef} className=' absolute h-[20vw] overflow-hidden w-[15vw] top-10 rounded-3xl left-[30vw]'>
           <img ref={imageRef} className='h-full w-full object-cover' src={imageArray[0]} />
