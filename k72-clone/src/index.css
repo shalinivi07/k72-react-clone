@@ -19,14 +19,17 @@
 
 .moveLink{
   opacity: 0;
-  transition:all 0.5s ease;
+  transition:all ease 0.3s;
+}
+.link:hover .moveLink{
+  opacity: 1;
 }
 
 @keyframes moveAnimation{
   from{
-    transform:translateX(0)
+    transform:translateX(0);
   }
   to{
-    transform:translateX(-100%)
+    transform:translateX(-100%);
   }
 }
