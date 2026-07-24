@@ -55,7 +55,6 @@ const Stairs = (child) => {
                     <div className='stair h-full w-1/5 bg-black'></div>
                     <div className='stair h-full w-1/5 bg-black'></div>
                     <div className='stair h-full w-1/5 bg-black'></div>
-
                 </div>
             </div>
             <div ref={pageRef}>
